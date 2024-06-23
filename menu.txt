@@ -1,0 +1,12 @@
+Biryani, 499, 20
+Butter Chicken, 399, 15
+Masala Dosa, 99, 25
+Paneer Tikka, 199, 18
+Chole Bhature, 79, 30
+Samosa, 29, 50
+Palak Paneer, 199, 20
+Tandoori Chicken, 399, 20
+Pav Bhaji, 99, 25
+Aloo Paratha, 59, 30
+Gulab Jamun, 39, 40
+Dahi Puri, 99, 35
